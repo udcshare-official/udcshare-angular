@@ -1,0 +1,32 @@
+{
+  "name": "@udcshare/angular-upload",
+  "version": "1.0.0",
+  "description": "Module Angular pour l'API UDCShare",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0",
+    "rxjs": "^7.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "keywords": [
+    "angular",
+    "upload",
+    "file",
+    "udcshare",
+    "api",
+    "rxjs"
+  ],
+  "author": "UDCShare Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/udcshare-official/udcshare-angular.git"
+  },
+  "ngPackage": {
+    "lib": {
+      "entryFile": "src/index.ts"
+    }
+  }
+}
